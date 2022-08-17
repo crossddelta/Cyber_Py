@@ -1,6 +1,9 @@
 import requests
 import re
 
+print("============================================================")
+print("+                       I S I T O N ?                     +")
+print("============================================================")
 
 def checaPonto(site):
     if site.count(".") > 0:
